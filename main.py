@@ -14,9 +14,10 @@ def ping():
 
     var3 = [
 
-        'Op%C8%9Biunea+B'
+        'Op%C8%9Biunea+B',
+        'Op%C8%9Biunea+A'
     ]
-    # 'Op%C8%9Biunea+A'
+
 
 
     var14 = ['1', '2', '3', '4', '5']
